@@ -1,7 +1,12 @@
-This project is 
+This project is a single webpage that contains google fonts, a hero background, navigation that changes colour when hovered over. 
+Clicking on a navigation item will cause the page to smoothly transition to that section of the page. 
+In the top right hand corner we have a Light Mode with an icon of the sun beside a toggle button. when the toggle is changed the entire site transitions to Dark Mode with the sun icon changing to a moon. This change is reflected in the images on site (which also change colour) along with the background and navigiation and hover effects too.
 
-It uses 
+It uses Flexbox, HTML5, CSS, and JS
 
 It can be used as an example of 
 
-- 
+- Single page for a website 
+
+
+NOTE: This project is not overly responsive - it is more about displaying the light/ dark mode
